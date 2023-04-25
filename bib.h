@@ -2,6 +2,7 @@
 #define _BIB_H
 
 
+void alteraLivro();
 
 
 
